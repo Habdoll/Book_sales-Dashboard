@@ -1,5 +1,6 @@
 # Book_sales-Dashboard
 ---
+![Screenshot (33)](https://github.com/Habdoll/Book_sales-Dashboard/assets/145981715/9638d7df-bbff-4135-83b4-df04631c0a06)
 
 
 
